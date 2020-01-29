@@ -1,0 +1,5 @@
+.DS_Store
+
+*.no_git
+
+*.never_git
